@@ -28,7 +28,7 @@ This project demonstrates the deployment of a Java-based web application (WAR fi
 6. Configured security group to allow HTTP traffic
 
 ## Live Application
-http://44.192.25.125
+http://3.239.127.76
 
 ## Key Features
 - Containerized deployment
